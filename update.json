@@ -1,0 +1,13 @@
+{
+  "addons": {
+    "fetch-si@haoli2030": {
+      "updates": [
+        {
+          "version": "0.12.0",
+          "update_link": "https://github.com/HaoLi2030/zotero-fetch-si/releases/download/v0.12.0/fetch-si.xpi",
+          "applications": { "zotero": { "strict_min_version": "7.0" } }
+        }
+      ]
+    }
+  }
+}

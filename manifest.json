@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Sidecar",
+  "version": "0.12.0",
+  "description": "Attach Supplementary Information (Nature, Science, PNAS, AGU/Wiley, Cell Press) and Peer Review PDFs (Nature); deleting a linked attachment also trashes its file.",
+  "icons": { "48": "icons/icon.svg", "96": "icons/icon.svg" },
+  "author": "Hao Li",
+  "applications": {
+    "zotero": {
+      "id": "fetch-si@haoli2030",
+      "update_url": "https://raw.githubusercontent.com/HaoLi2030/zotero-fetch-si/main/update.json",
+      "strict_min_version": "7.0",
+      "strict_max_version": "10.*"
+    }
+  }
+}

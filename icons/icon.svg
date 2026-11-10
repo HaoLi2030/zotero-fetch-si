@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <!-- main paper -->
+  <rect x="12" y="8" width="50" height="66" rx="7" fill="#FFFFFF" stroke="#2F3A4A" stroke-width="5"/>
+  <rect x="21" y="20" width="26" height="5" rx="2.5" fill="#2F3A4A"/>
+  <rect x="21" y="31" width="32" height="4" rx="2" fill="#9AA3AE"/>
+  <rect x="21" y="40" width="32" height="4" rx="2" fill="#9AA3AE"/>
+  <rect x="21" y="49" width="20" height="4" rx="2" fill="#9AA3AE"/>
+  <!-- supplement (Zotero red) -->
+  <rect x="48" y="38" width="38" height="50" rx="6" fill="#CC2936" stroke="#FFFFFF" stroke-width="4"/>
+  <rect x="63" y="51" width="16" height="4" rx="2" fill="#FFFFFF"/>
+  <rect x="63" y="60" width="16" height="4" rx="2" fill="#FFFFFF" opacity="0.8"/>
+  <rect x="56" y="69" width="18" height="4" rx="2" fill="#FFFFFF" opacity="0.8"/>
+  <!-- paperclip holding the supplement -->
+  <path d="M60 54 V34 a4 4 0 0 0 -8 0 V56 a2.8 2.8 0 0 0 5.6 0 V38" fill="none" stroke="#FFFFFF" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M60 54 V34 a4 4 0 0 0 -8 0 V56 a2.8 2.8 0 0 0 5.6 0 V38" fill="none" stroke="#2F3A4A" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
